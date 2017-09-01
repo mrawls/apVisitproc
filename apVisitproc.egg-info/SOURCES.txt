@@ -1,8 +1,0 @@
-setup.py
-apVisitproc.egg-info/PKG-INFO
-apVisitproc.egg-info/SOURCES.txt
-apVisitproc.egg-info/dependency_links.txt
-apVisitproc.egg-info/top_level.txt
-apvisitproc/__init__.py
-apvisitproc/apVisit2input.py
-apvisitproc/despike.py
