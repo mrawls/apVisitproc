@@ -16,11 +16,14 @@ and free of "spikey" telluric artifacts.
 
 ## Installation
 
-Navigate to the directory where you cloned this repo and run
-`python setup.py install`
+First, clone (or download and unzip) this package.
 
-Then you should be able to `import apvisitproc` within python.
+At present, the best way to run the two main scripts in this
+package are from the command line, as described below.
 
+> You may also navigate to the apVisitproc directory and run `python setup.py install`.
+This should allow you to `import apvisitproc` within python, but this is not
+particularly useful at present.
 
 ## apVisit2input
 
@@ -45,8 +48,6 @@ The output will show the result of the continuum normalization for each visit sp
 Once this is complete, you will have a new set of text file spectra.
 The full path to each one is printed to the screen, along with each visit's time
 of observation in days (HJD) and barycentric velocity in km/s (BCV).
-
-
 
 ## despike
 
